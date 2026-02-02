@@ -1,4 +1,4 @@
-# Raw IMU and FSR Walking Dataset
+# Raw IMU and FSR Stroke Walking Dataset
 
 This repository provides raw thigh-mounted IMU and heel FSR data
 collected during walking experiments.
