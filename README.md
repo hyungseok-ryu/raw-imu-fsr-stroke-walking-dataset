@@ -9,11 +9,6 @@ No filtering, windowing, event detection, or label generation is applied.
 
 ---
 
-## Dataset Structure
-
-
----
-
 ## Subject Information
 
 | Subject ID | Affected Side |
